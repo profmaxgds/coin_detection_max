@@ -10,18 +10,9 @@ A estrutura do projeto segue a seguinte organização:
 
 ```plaintext
 📂 Projeto_Deteccao
-│── 📂 assets                # Diretório para armazenar imagens e máscaras
+│── 📂 detect_images         # Diretório para armazenar imagens e objetos
+│    ├── 📂 inference        # Diretório para salvar as imagens que serão testadas
 │    ├── 📂 search           # Diretório para salvar os objetos que se quer localizar
-│    │    ├── coin.png       # Objeto a procurar (moeda)
-│    ├── case-180.png        # Imagem para procurar o objeto rotação de -180°
-│    ├── case-270.png        # Imagem para procurar o objeto rotação de -270°
-│    ├── case-45.png         # Imagem para procurar o objeto rotação de -45°
-│    ├── case-90.png         # Imagem para procurar o objeto rotação de -90°
-│    ├── case.png            # Imagem para procurar o objeto sem rotação
-│    ├── case180.png         # Imagem para procurar o objeto rotação de 180°
-│    ├── case270.png         # Imagem para procurar o objeto rotação de 270°
-│    ├── case45.png          # Imagem para procurar o objeto rotação de 45°
-│    ├── case90.png          # Imagem para procurar o objeto rotação de 90°
 │── 📂 logs                  # Armazena arquivos de log gerados
 │── 📂 src                   # Código-fonte principal
 │    ├── image_processing.py # Processamento e pré-processamento de imagens
