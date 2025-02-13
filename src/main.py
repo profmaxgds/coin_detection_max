@@ -63,7 +63,7 @@ def main():
 
     
     # Define a pasta com as imagens disponíveis
-    assets_folder = "./assets/"
+    assets_folder = "./detect_images/inference"
     imagens_disponiveis = listar_imagens(assets_folder)
     if not imagens_disponiveis:
         return
@@ -81,10 +81,10 @@ def main():
 
     
     # Define a pasta com as imagens a serem procuradas
-    image_folder = "./assets/search"
+    image_folder = "./detect_images/search"
     
     # Caminho para salvar a imagem processada
-    output_path = "/content/Coin_Detection/result.png"
+    output_path = "/content/coin_Detection_max/result.png"
     
     # Carrega a imagem case 
     case_gray, case = prepare_image(case_path)
