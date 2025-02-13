@@ -13,11 +13,11 @@ os.environ['TZ'] = TZ
 time.tzset()  # Aplica a configuração no ambiente Linux
 
 # Diretório do log
-log_dir = "/content/Coin_Detection/logs"
+log_dir = "/content/coin_Detection_max/logs"
 os.makedirs(log_dir, exist_ok=True)
 
 # Configuração do logging
-log_file = os.path.join(log_dir, "log_utils.txt")
+log_file = os.path.join(log_dir, "logs.txt")
 
 class CustomFormatter(logging.Formatter):
     """ Formatter que aplica o timezone correto """

@@ -1,0 +1,26 @@
+2025-02-13 20:24:18,583 - INFO - Sistema de logging inicializado.
+2025-02-13 20:24:18,597 - INFO - Iniciando o processamento...
+2025-02-13 20:24:24,970 - INFO - A imagem ./detect_images/inference/case.png foi pré-processada com sucesso
+2025-02-13 20:24:25,083 - INFO - Total de variações geradas para coin.png: 1842
+2025-02-13 20:24:48,657 - INFO - 1 Detecção em 181,172 com confiança 98.94%
+2025-02-13 20:24:48,657 - INFO - 2 Detecção em 181,254 com confiança 98.92%
+2025-02-13 20:24:48,657 - INFO - 3 Detecção em 289,172 com confiança 98.90%
+2025-02-13 20:24:48,658 - INFO - 4 Detecção em 289,254 com confiança 98.89%
+2025-02-13 20:24:48,658 - INFO - 5 Detecção em 217,172 com confiança 98.88%
+2025-02-13 20:24:48,658 - INFO - 6 Detecção em 217,254 com confiança 98.88%
+2025-02-13 20:24:48,658 - INFO - 7 Detecção em 253,254 com confiança 98.81%
+2025-02-13 20:24:48,658 - INFO - 8 Detecção em 325,254 com confiança 98.77%
+2025-02-13 20:24:48,658 - INFO - 9 Detecção em 361,254 com confiança 98.77%
+2025-02-13 20:24:48,658 - INFO - 10 Detecção em 325,172 com confiança 98.76%
+2025-02-13 20:24:48,658 - INFO - 11 Detecção em 253,172 com confiança 98.76%
+2025-02-13 20:24:48,659 - INFO - 12 Detecção em 145,254 com confiança 98.69%
+2025-02-13 20:24:48,659 - INFO - 13 Detecção em 197,26 com confiança 94.24%
+2025-02-13 20:24:48,659 - INFO - 14 Detecção em 217,336 com confiança 92.86%
+2025-02-13 20:24:48,659 - INFO - 15 Detecção em 289,336 com confiança 92.78%
+2025-02-13 20:24:48,659 - INFO - 16 Detecção em 181,336 com confiança 92.77%
+2025-02-13 20:24:48,659 - INFO - 17 Detecção em 253,336 com confiança 92.76%
+2025-02-13 20:24:48,659 - INFO - 18 Detecção em 145,336 com confiança 92.70%
+2025-02-13 20:24:48,659 - INFO - 19 Detecção em 325,336 com confiança 92.70%
+2025-02-13 20:24:48,659 - INFO - 20 Detecção em 361,336 com confiança 92.65%
+2025-02-13 20:24:48,678 - INFO - Resultado salvo em: /content/coin_Detection_max/result.png 
+
